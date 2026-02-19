@@ -4,7 +4,8 @@ description: Transform neutral or literal descriptions into emotionally resonant
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3963
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - expressive-color-translation
 - transformation
